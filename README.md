@@ -1,5 +1,5 @@
 # WeSplit 
-Project 1 in my 100 days of SwiftUI- Hacking with Swift journey. This app introduces some basic but fundamental elements to SwiftUI.
+Project 1 in my 100 days of SwiftUI- Hacking with Swift journey. This app introduces some basic but fundamental elements to SwiftUI. It allows users to enter the price of a meal, how many people in their party and how much tip to give. It then calculates how much each person owes.
 # Features
 - Creating and using a Form.
 - Adding a Navigation bar.
